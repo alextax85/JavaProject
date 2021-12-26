@@ -3,6 +3,7 @@ public class main {
     int x=0;
     while (true) {
         x++;
+        System.out.println(x);
         }
             }
 
