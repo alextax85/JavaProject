@@ -11,8 +11,8 @@ public class main {
         System.out.println("Enter your age:");
         int age = console.nextInt();
 
-        System.out.println("Name: " + name);
-        System.out.println("Age: " + age);
+//        System.out.println("Name: " + name);
+//        System.out.println("Age: " + age);
 
 
             }
