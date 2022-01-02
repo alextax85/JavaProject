@@ -1,9 +1,12 @@
+package main;
+
 import java.util.Scanner;
 
 public class main {
     public static void main(String[] args) {
+        Cat (15,15);
         int goOutWithMe = 0;
-        while (true) {
+        while (goOutWithMe < 10000) {
             goOutWithMe++;
             System.out.println(goOutWithMe);
         }
