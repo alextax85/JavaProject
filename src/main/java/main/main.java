@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class main {
     public static void main(String[] args) {
-        Cat (15,15);
         int goOutWithMe = 0;
         while (goOutWithMe < 10000) {
             goOutWithMe++;
